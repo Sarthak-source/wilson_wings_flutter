@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "440104668695",
+    "firebase_url": "https://wilson-wings-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wilson-wings",
+    "storage_bucket": "wilson-wings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440104668695:android:6b94b4267f6172ce789652",
+        "android_client_info": {
+          "package_name": "com.example.wilson_wings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440104668695-b03mmp4sbdcluab4mrog1up7nsc59j3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQv33qDk2p7Iz1Pmgd1NHoLTGWdOszk08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440104668695-b03mmp4sbdcluab4mrog1up7nsc59j3a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440104668695-8gih3hdce39rmc1860ajcptt9g1hb0vm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wilsonWings"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
